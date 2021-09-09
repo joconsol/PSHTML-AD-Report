@@ -8,12 +8,12 @@
 .PARAMETER CompanyLogo
     Enter URL or UNC path to your desired Company Logo for generated report.
 
-    -CompanyLogo "\\Server01\Admin\Files\CompanyLogo.png"
+    -CompanyLogo "https://skypeakgroup.com/images/skypeak-logo.png"
 
 .PARAMETER RightLogo
     Enter URL or UNC path to your desired right-side logo for generated report.
 
-    -RightLogo "https://www.psmpartners.com/wp-content/uploads/2017/10/porcaro-stolarek-mete.png"
+    -RightLogo "https://skypeakgroup.com/images/skypeak-logo.png"
 
 .PARAMETER ReportTitle
     Enter desired title for generated report.
